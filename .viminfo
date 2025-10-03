@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1759465138,,"wq"
+|2,0,1759466292,,"wq"
 :1,%d
 |2,0,1759463514,,"1,%d"
 
@@ -114,38 +114,78 @@
 |3,0,3,1,2,0,1759463296,"---","# tasks file for demo"
 
 # File marks:
-'0  6  35  ~/demo-playbook.yml
-|4,48,6,35,1759465138,"~/demo-playbook.yml"
-'1  7  0  ~/demo-playbook.yml
-|4,49,7,0,1759465092,"~/demo-playbook.yml"
-'2  6  0  ~/demo-playbook.yml
-|4,50,6,0,1759465092,"~/demo-playbook.yml"
-'3  216  0  ~/demo/files/index.html
-|4,51,216,0,1759463516,"~/demo/files/index.html"
-'4  5  9  ~/demo-playbook.yml
-|4,52,5,9,1759463328,"~/demo-playbook.yml"
-'5  5  9  ~/demo-playbook.yml
-|4,53,5,9,1759463328,"~/demo-playbook.yml"
+'0  1  0  ~/ec2/inventory.ini
+|4,48,1,0,1759466292,"~/ec2/inventory.ini"
+'1  2  55  ~/.ansible/tmp/ansible-local-5113qgd4n8o6/tmp18ehn83z.yml
+|4,49,2,55,1759466163,"~/.ansible/tmp/ansible-local-5113qgd4n8o6/tmp18ehn83z.yml"
+'2  6  35  ~/demo-playbook.yml
+|4,50,6,35,1759465138,"~/demo-playbook.yml"
+'3  7  0  ~/demo-playbook.yml
+|4,51,7,0,1759465092,"~/demo-playbook.yml"
+'4  6  0  ~/demo-playbook.yml
+|4,52,6,0,1759465092,"~/demo-playbook.yml"
+'5  216  0  ~/demo/files/index.html
+|4,53,216,0,1759463516,"~/demo/files/index.html"
 '6  5  9  ~/demo-playbook.yml
 |4,54,5,9,1759463328,"~/demo-playbook.yml"
 '7  5  9  ~/demo-playbook.yml
 |4,55,5,9,1759463328,"~/demo-playbook.yml"
-'8  19  13  ~/demo/tasks/main.yml
-|4,56,19,13,1759463300,"~/demo/tasks/main.yml"
-'9  1  0  ~/demo/tasks/main.tf
-|4,57,1,0,1759463290,"~/demo/tasks/main.tf"
+'8  5  9  ~/demo-playbook.yml
+|4,56,5,9,1759463328,"~/demo-playbook.yml"
+'9  5  9  ~/demo-playbook.yml
+|4,57,5,9,1759463328,"~/demo-playbook.yml"
 
 # Jumplist (newest first):
+-'  1  0  ~/ec2/inventory.ini
+|4,39,1,0,1759466292,"~/ec2/inventory.ini"
+-'  2  55  ~/.ansible/tmp/ansible-local-5113qgd4n8o6/tmp18ehn83z.yml
+|4,39,2,55,1759466163,"~/.ansible/tmp/ansible-local-5113qgd4n8o6/tmp18ehn83z.yml"
+-'  2  55  ~/.ansible/tmp/ansible-local-5113qgd4n8o6/tmp18ehn83z.yml
+|4,39,2,55,1759466163,"~/.ansible/tmp/ansible-local-5113qgd4n8o6/tmp18ehn83z.yml"
+-'  1  0  ~/.ansible/tmp/ansible-local-5113qgd4n8o6/tmp18ehn83z.yml
+|4,39,1,0,1759466060,"~/.ansible/tmp/ansible-local-5113qgd4n8o6/tmp18ehn83z.yml"
+-'  1  0  ~/.ansible/tmp/ansible-local-5113qgd4n8o6/tmp18ehn83z.yml
+|4,39,1,0,1759466060,"~/.ansible/tmp/ansible-local-5113qgd4n8o6/tmp18ehn83z.yml"
+-'  6  35  ~/demo-playbook.yml
+|4,39,6,35,1759465138,"~/demo-playbook.yml"
+-'  6  35  ~/demo-playbook.yml
+|4,39,6,35,1759465138,"~/demo-playbook.yml"
+-'  6  35  ~/demo-playbook.yml
+|4,39,6,35,1759465138,"~/demo-playbook.yml"
 -'  6  35  ~/demo-playbook.yml
 |4,39,6,35,1759465138,"~/demo-playbook.yml"
 -'  7  0  ~/demo-playbook.yml
 |4,39,7,0,1759465126,"~/demo-playbook.yml"
+-'  7  0  ~/demo-playbook.yml
+|4,39,7,0,1759465126,"~/demo-playbook.yml"
+-'  7  0  ~/demo-playbook.yml
+|4,39,7,0,1759465126,"~/demo-playbook.yml"
+-'  7  0  ~/demo-playbook.yml
+|4,39,7,0,1759465126,"~/demo-playbook.yml"
+-'  6  0  ~/demo-playbook.yml
+|4,39,6,0,1759465092,"~/demo-playbook.yml"
+-'  6  0  ~/demo-playbook.yml
+|4,39,6,0,1759465092,"~/demo-playbook.yml"
+-'  6  0  ~/demo-playbook.yml
+|4,39,6,0,1759465092,"~/demo-playbook.yml"
 -'  6  0  ~/demo-playbook.yml
 |4,39,6,0,1759465092,"~/demo-playbook.yml"
 -'  5  9  ~/demo-playbook.yml
 |4,39,5,9,1759465085,"~/demo-playbook.yml"
 -'  5  9  ~/demo-playbook.yml
 |4,39,5,9,1759465085,"~/demo-playbook.yml"
+-'  5  9  ~/demo-playbook.yml
+|4,39,5,9,1759465085,"~/demo-playbook.yml"
+-'  5  9  ~/demo-playbook.yml
+|4,39,5,9,1759465085,"~/demo-playbook.yml"
+-'  5  9  ~/demo-playbook.yml
+|4,39,5,9,1759465085,"~/demo-playbook.yml"
+-'  5  9  ~/demo-playbook.yml
+|4,39,5,9,1759465085,"~/demo-playbook.yml"
+-'  5  9  ~/demo-playbook.yml
+|4,39,5,9,1759465085,"~/demo-playbook.yml"
+-'  5  9  ~/demo-playbook.yml
+|4,39,5,9,1759465085,"~/demo-playbook.yml"
 -'  216  0  ~/demo/files/index.html
 |4,39,216,0,1759463516,"~/demo/files/index.html"
 -'  216  0  ~/demo/files/index.html
@@ -154,6 +194,54 @@
 |4,39,216,0,1759463516,"~/demo/files/index.html"
 -'  216  0  ~/demo/files/index.html
 |4,39,216,0,1759463516,"~/demo/files/index.html"
+-'  216  0  ~/demo/files/index.html
+|4,39,216,0,1759463516,"~/demo/files/index.html"
+-'  216  0  ~/demo/files/index.html
+|4,39,216,0,1759463516,"~/demo/files/index.html"
+-'  216  0  ~/demo/files/index.html
+|4,39,216,0,1759463516,"~/demo/files/index.html"
+-'  216  0  ~/demo/files/index.html
+|4,39,216,0,1759463516,"~/demo/files/index.html"
+-'  216  0  ~/demo/files/index.html
+|4,39,216,0,1759463516,"~/demo/files/index.html"
+-'  216  0  ~/demo/files/index.html
+|4,39,216,0,1759463516,"~/demo/files/index.html"
+-'  216  0  ~/demo/files/index.html
+|4,39,216,0,1759463516,"~/demo/files/index.html"
+-'  216  0  ~/demo/files/index.html
+|4,39,216,0,1759463516,"~/demo/files/index.html"
+-'  216  0  ~/demo/files/index.html
+|4,39,216,0,1759463516,"~/demo/files/index.html"
+-'  216  0  ~/demo/files/index.html
+|4,39,216,0,1759463516,"~/demo/files/index.html"
+-'  216  0  ~/demo/files/index.html
+|4,39,216,0,1759463516,"~/demo/files/index.html"
+-'  216  0  ~/demo/files/index.html
+|4,39,216,0,1759463516,"~/demo/files/index.html"
+-'  1  0  ~/demo/files/index.html
+|4,39,1,0,1759463514,"~/demo/files/index.html"
+-'  1  0  ~/demo/files/index.html
+|4,39,1,0,1759463514,"~/demo/files/index.html"
+-'  1  0  ~/demo/files/index.html
+|4,39,1,0,1759463514,"~/demo/files/index.html"
+-'  1  0  ~/demo/files/index.html
+|4,39,1,0,1759463514,"~/demo/files/index.html"
+-'  1  0  ~/demo/files/index.html
+|4,39,1,0,1759463514,"~/demo/files/index.html"
+-'  1  0  ~/demo/files/index.html
+|4,39,1,0,1759463514,"~/demo/files/index.html"
+-'  1  0  ~/demo/files/index.html
+|4,39,1,0,1759463514,"~/demo/files/index.html"
+-'  1  0  ~/demo/files/index.html
+|4,39,1,0,1759463514,"~/demo/files/index.html"
+-'  1  0  ~/demo/files/index.html
+|4,39,1,0,1759463514,"~/demo/files/index.html"
+-'  1  0  ~/demo/files/index.html
+|4,39,1,0,1759463514,"~/demo/files/index.html"
+-'  1  0  ~/demo/files/index.html
+|4,39,1,0,1759463514,"~/demo/files/index.html"
+-'  1  0  ~/demo/files/index.html
+|4,39,1,0,1759463514,"~/demo/files/index.html"
 -'  1  0  ~/demo/files/index.html
 |4,39,1,0,1759463514,"~/demo/files/index.html"
 -'  1  0  ~/demo/files/index.html
@@ -166,6 +254,42 @@
 |4,39,5,9,1759463328,"~/demo-playbook.yml"
 -'  5  9  ~/demo-playbook.yml
 |4,39,5,9,1759463328,"~/demo-playbook.yml"
+-'  5  9  ~/demo-playbook.yml
+|4,39,5,9,1759463328,"~/demo-playbook.yml"
+-'  5  9  ~/demo-playbook.yml
+|4,39,5,9,1759463328,"~/demo-playbook.yml"
+-'  5  9  ~/demo-playbook.yml
+|4,39,5,9,1759463328,"~/demo-playbook.yml"
+-'  5  9  ~/demo-playbook.yml
+|4,39,5,9,1759463328,"~/demo-playbook.yml"
+-'  5  9  ~/demo-playbook.yml
+|4,39,5,9,1759463328,"~/demo-playbook.yml"
+-'  5  9  ~/demo-playbook.yml
+|4,39,5,9,1759463328,"~/demo-playbook.yml"
+-'  1  17  ~/demo-playbook.yml
+|4,39,1,17,1759463326,"~/demo-playbook.yml"
+-'  1  17  ~/demo-playbook.yml
+|4,39,1,17,1759463326,"~/demo-playbook.yml"
+-'  1  17  ~/demo-playbook.yml
+|4,39,1,17,1759463326,"~/demo-playbook.yml"
+-'  1  17  ~/demo-playbook.yml
+|4,39,1,17,1759463326,"~/demo-playbook.yml"
+-'  1  17  ~/demo-playbook.yml
+|4,39,1,17,1759463326,"~/demo-playbook.yml"
+-'  1  17  ~/demo-playbook.yml
+|4,39,1,17,1759463326,"~/demo-playbook.yml"
+-'  1  17  ~/demo-playbook.yml
+|4,39,1,17,1759463326,"~/demo-playbook.yml"
+-'  1  17  ~/demo-playbook.yml
+|4,39,1,17,1759463326,"~/demo-playbook.yml"
+-'  1  17  ~/demo-playbook.yml
+|4,39,1,17,1759463326,"~/demo-playbook.yml"
+-'  1  17  ~/demo-playbook.yml
+|4,39,1,17,1759463326,"~/demo-playbook.yml"
+-'  1  17  ~/demo-playbook.yml
+|4,39,1,17,1759463326,"~/demo-playbook.yml"
+-'  1  17  ~/demo-playbook.yml
+|4,39,1,17,1759463326,"~/demo-playbook.yml"
 -'  1  17  ~/demo-playbook.yml
 |4,39,1,17,1759463326,"~/demo-playbook.yml"
 -'  1  17  ~/demo-playbook.yml
@@ -206,138 +330,28 @@
 |4,39,19,13,1759463300,"~/demo/tasks/main.yml"
 -'  19  13  ~/demo/tasks/main.yml
 |4,39,19,13,1759463300,"~/demo/tasks/main.yml"
--'  1  0  ~/demo/tasks/main.yml
-|4,39,1,0,1759463296,"~/demo/tasks/main.yml"
--'  1  0  ~/demo/tasks/main.yml
-|4,39,1,0,1759463296,"~/demo/tasks/main.yml"
--'  1  0  ~/demo/tasks/main.yml
-|4,39,1,0,1759463296,"~/demo/tasks/main.yml"
--'  1  0  ~/demo/tasks/main.yml
-|4,39,1,0,1759463296,"~/demo/tasks/main.yml"
--'  1  0  ~/demo/tasks/main.yml
-|4,39,1,0,1759463296,"~/demo/tasks/main.yml"
--'  1  0  ~/demo/tasks/main.yml
-|4,39,1,0,1759463296,"~/demo/tasks/main.yml"
--'  1  0  ~/demo/tasks/main.yml
-|4,39,1,0,1759463296,"~/demo/tasks/main.yml"
--'  1  0  ~/demo/tasks/main.yml
-|4,39,1,0,1759463296,"~/demo/tasks/main.yml"
--'  1  0  ~/demo/tasks/main.yml
-|4,39,1,0,1759463296,"~/demo/tasks/main.yml"
--'  1  0  ~/demo/tasks/main.yml
-|4,39,1,0,1759463296,"~/demo/tasks/main.yml"
--'  1  0  ~/demo/tasks/main.yml
-|4,39,1,0,1759463296,"~/demo/tasks/main.yml"
--'  1  0  ~/demo/tasks/main.yml
-|4,39,1,0,1759463296,"~/demo/tasks/main.yml"
--'  1  0  ~/demo/tasks/main.yml
-|4,39,1,0,1759463296,"~/demo/tasks/main.yml"
--'  1  0  ~/demo/tasks/main.yml
-|4,39,1,0,1759463296,"~/demo/tasks/main.yml"
--'  1  0  ~/demo/tasks/main.yml
-|4,39,1,0,1759463296,"~/demo/tasks/main.yml"
--'  1  0  ~/demo/tasks/main.yml
-|4,39,1,0,1759463296,"~/demo/tasks/main.yml"
--'  1  0  ~/demo/tasks/main.tf
-|4,39,1,0,1759463290,"~/demo/tasks/main.tf"
--'  1  0  ~/demo/tasks/main.tf
-|4,39,1,0,1759463290,"~/demo/tasks/main.tf"
--'  1  0  ~/demo/tasks/main.tf
-|4,39,1,0,1759463290,"~/demo/tasks/main.tf"
--'  1  0  ~/demo/tasks/main.tf
-|4,39,1,0,1759463290,"~/demo/tasks/main.tf"
--'  1  0  ~/demo/tasks/main.tf
-|4,39,1,0,1759463290,"~/demo/tasks/main.tf"
--'  1  0  ~/demo/tasks/main.tf
-|4,39,1,0,1759463290,"~/demo/tasks/main.tf"
--'  1  0  ~/demo/tasks/main.tf
-|4,39,1,0,1759463290,"~/demo/tasks/main.tf"
--'  1  0  ~/demo/tasks/main.tf
-|4,39,1,0,1759463290,"~/demo/tasks/main.tf"
--'  1  0  ~/demo/tasks/main.tf
-|4,39,1,0,1759463290,"~/demo/tasks/main.tf"
--'  1  0  ~/demo/tasks/main.tf
-|4,39,1,0,1759463290,"~/demo/tasks/main.tf"
--'  1  0  ~/demo/tasks/main.tf
-|4,39,1,0,1759463290,"~/demo/tasks/main.tf"
--'  1  0  ~/demo/tasks/main.tf
-|4,39,1,0,1759463290,"~/demo/tasks/main.tf"
--'  1  0  ~/demo/tasks/main.tf
-|4,39,1,0,1759463290,"~/demo/tasks/main.tf"
--'  1  0  ~/demo/tasks/main.tf
-|4,39,1,0,1759463290,"~/demo/tasks/main.tf"
--'  1  0  ~/demo/tasks/main.tf
-|4,39,1,0,1759463290,"~/demo/tasks/main.tf"
--'  1  0  ~/demo/tasks/main.tf
-|4,39,1,0,1759463290,"~/demo/tasks/main.tf"
--'  1  0  ~/demo/tasks/main.tf
-|4,39,1,0,1759463290,"~/demo/tasks/main.tf"
--'  1  0  ~/demo/tasks/main.tf
-|4,39,1,0,1759463290,"~/demo/tasks/main.tf"
--'  1  0  ~/demo/tasks/main.tf
-|4,39,1,0,1759463290,"~/demo/tasks/main.tf"
--'  1  0  ~/demo/tasks/main.tf
-|4,39,1,0,1759463290,"~/demo/tasks/main.tf"
--'  1  0  ~/demo/tasks/main.tf
-|4,39,1,0,1759463290,"~/demo/tasks/main.tf"
--'  1  0  ~/demo/tasks/main.tf
-|4,39,1,0,1759463290,"~/demo/tasks/main.tf"
--'  1  0  ~/demo/tasks/main.tf
-|4,39,1,0,1759463290,"~/demo/tasks/main.tf"
--'  1  0  ~/demo/tasks/main.tf
-|4,39,1,0,1759463290,"~/demo/tasks/main.tf"
--'  1  0  ~/demo/tasks/main.tf
-|4,39,1,0,1759463290,"~/demo/tasks/main.tf"
--'  1  0  ~/demo/tasks/main.tf
-|4,39,1,0,1759463290,"~/demo/tasks/main.tf"
--'  1  0  ~/demo/tasks/main.tf
-|4,39,1,0,1759463290,"~/demo/tasks/main.tf"
--'  1  0  ~/demo/tasks/main.tf
-|4,39,1,0,1759463290,"~/demo/tasks/main.tf"
--'  1  0  ~/demo/tasks/main.tf
-|4,39,1,0,1759463290,"~/demo/tasks/main.tf"
--'  1  0  ~/demo/tasks/main.tf
-|4,39,1,0,1759463290,"~/demo/tasks/main.tf"
--'  1  0  ~/demo/tasks/main.tf
-|4,39,1,0,1759463290,"~/demo/tasks/main.tf"
--'  1  0  ~/demo/tasks/main.tf
-|4,39,1,0,1759463290,"~/demo/tasks/main.tf"
--'  24  17  ~/demo-playbook.yml
-|4,39,24,17,1759463276,"~/demo-playbook.yml"
--'  23  17  ~/demo-playbook.yml
-|4,39,23,17,1759463276,"~/demo-playbook.yml"
--'  23  17  ~/demo-playbook.yml
-|4,39,23,17,1759463276,"~/demo-playbook.yml"
--'  23  17  ~/demo-playbook.yml
-|4,39,23,17,1759463276,"~/demo-playbook.yml"
--'  23  17  ~/demo-playbook.yml
-|4,39,23,17,1759463276,"~/demo-playbook.yml"
--'  23  17  ~/demo-playbook.yml
-|4,39,23,17,1759463276,"~/demo-playbook.yml"
--'  23  17  ~/demo-playbook.yml
-|4,39,23,17,1759463276,"~/demo-playbook.yml"
--'  23  17  ~/demo-playbook.yml
-|4,39,23,17,1759463276,"~/demo-playbook.yml"
--'  23  17  ~/demo-playbook.yml
-|4,39,23,17,1759463276,"~/demo-playbook.yml"
--'  23  17  ~/demo-playbook.yml
-|4,39,23,17,1759463276,"~/demo-playbook.yml"
--'  216  0  ~/index.html
-|4,39,216,0,1759462654,"~/index.html"
--'  216  0  ~/index.html
-|4,39,216,0,1759462654,"~/index.html"
--'  216  0  ~/index.html
-|4,39,216,0,1759462654,"~/index.html"
--'  216  0  ~/index.html
-|4,39,216,0,1759462654,"~/index.html"
--'  216  0  ~/index.html
-|4,39,216,0,1759462654,"~/index.html"
--'  216  0  ~/index.html
-|4,39,216,0,1759462654,"~/index.html"
--'  216  0  ~/index.html
-|4,39,216,0,1759462654,"~/index.html"
+-'  19  13  ~/demo/tasks/main.yml
+|4,39,19,13,1759463300,"~/demo/tasks/main.yml"
+-'  19  13  ~/demo/tasks/main.yml
+|4,39,19,13,1759463300,"~/demo/tasks/main.yml"
+-'  19  13  ~/demo/tasks/main.yml
+|4,39,19,13,1759463300,"~/demo/tasks/main.yml"
 
 # History of marks within files (newest to oldest):
+
+> ~/ec2/inventory.ini
+	*	1759466290	0
+	"	1	0
+
+> ~/.ansible/tmp/ansible-local-5113qgd4n8o6/tmp18ehn83z.yml
+	*	1759466162	0
+	"	2	55
+	^	2	56
+	.	2	55
+	+	1	15
+	+	2	14
+	+	1	15
+	+	2	55
 
 > ~/demo-playbook.yml
 	*	1759465137	0
