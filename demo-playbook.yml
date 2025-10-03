@@ -1,23 +1,7 @@
 ---
 - hosts: all
   become: true
-  tasks:
-    - name: install nginx
-      ansible.builtin.apt:
-        name: nginx
-        state: present
-        update_cache: true
+  roles:
+    - demo
+    - NinganagoudaPolicepatil.docker
 
-    - name: start nginx
-      ansible.builtin.service:
-        name: nginx
-        state: started
-        enabled: true
-
-    - name: copy index file to nginx
-      ansible.builtin.copy:
-        src: index.html
-        dest: /var/www/html/index.html
-        owner: root
-        group: root
-        mode: 0644
